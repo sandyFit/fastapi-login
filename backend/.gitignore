@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.env
+*.sqlite3
+.envrc
+.venv/
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
